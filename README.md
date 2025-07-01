@@ -1,4 +1,4 @@
-# HEPL Garage - Gestion d'École
+# Gestion d'École
 
 ## Présentation
 Cette application Java permet de gérer les ressources d'une école (professeurs, groupes, locaux, cours) à travers une interface graphique conviviale. Elle propose des fonctionnalités de gestion, d'import/export et de sauvegarde des données.
@@ -36,12 +36,9 @@ hepl.garage.view.GUI.main
 - L'accès à certaines fonctionnalités peut nécessiter une authentification
 
 ## Auteurs
-- Projet académique HEPL
+- Nassim et Salah
 
 ## Remarques
 - Les données sont sauvegardées automatiquement lors de certaines actions
 - En cas de problème, vérifiez les fichiers de sauvegarde générés dans le dossier du projet
 
----
-
-Pour toute question ou amélioration, contactez l'équipe pédagogique HEPL.
